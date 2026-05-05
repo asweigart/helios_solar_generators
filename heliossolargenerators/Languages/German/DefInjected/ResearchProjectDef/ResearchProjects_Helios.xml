@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HeliosSolarL1.label>Helios-Solar I</HeliosSolarL1.label>
+  <HeliosSolarL1.description>Kompakter 2x2-Solargenerator, der bei vollem Tageslicht bis zu 1500 W erzeugt.</HeliosSolarL1.description>
+
+  <HeliosSolarL2.label>Helios-Solar II</HeliosSolarL2.label>
+  <HeliosSolarL2.description>Verbesserter Helios-Generator, der bei vollem Tageslicht bis zu 3000 W erzeugt.</HeliosSolarL2.description>
+
+  <HeliosSolarL3.label>Helios-Solar III</HeliosSolarL3.label>
+  <HeliosSolarL3.description>Fortgeschrittener Helios-Generator, der bei vollem Tageslicht bis zu 6000 W erzeugt. Erfordert Hightech-Forschungstisch.</HeliosSolarL3.description>
+
+  <HeliosSolarL4.label>Helios-Solar IV</HeliosSolarL4.label>
+  <HeliosSolarL4.description>Spitzenmodell der Helios-Reihe, das bei vollem Tageslicht bis zu 9000 W erzeugt. Erfordert Hightech-Forschungstisch und Multianalysator.</HeliosSolarL4.description>
+
+</LanguageData>

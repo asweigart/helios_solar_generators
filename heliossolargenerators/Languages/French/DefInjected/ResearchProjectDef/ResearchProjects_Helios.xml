@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HeliosSolarL1.label>solaire Helios I</HeliosSolarL1.label>
+  <HeliosSolarL1.description>Générateur solaire compact 2x2 produisant jusqu'à 1500 W en plein jour.</HeliosSolarL1.description>
+
+  <HeliosSolarL2.label>solaire Helios II</HeliosSolarL2.label>
+  <HeliosSolarL2.description>Générateur Helios amélioré produisant jusqu'à 3000 W en plein jour.</HeliosSolarL2.description>
+
+  <HeliosSolarL3.label>solaire Helios III</HeliosSolarL3.label>
+  <HeliosSolarL3.description>Générateur Helios avancé produisant jusqu'à 6000 W en plein jour. Nécessite un poste de recherche de haute technologie.</HeliosSolarL3.description>
+
+  <HeliosSolarL4.label>solaire Helios IV</HeliosSolarL4.label>
+  <HeliosSolarL4.description>Générateur Helios ultime produisant jusqu'à 9000 W en plein jour. Nécessite un poste de recherche de haute technologie et un multi-analyseur.</HeliosSolarL4.description>
+
+</LanguageData>

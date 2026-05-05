@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HeliosSolarGeneratorL1.label>ヘリオス太陽光発電機 I</HeliosSolarGeneratorL1.label>
+  <HeliosSolarGeneratorL1.description>コンパクトな2x2の太陽光発電機。ヘリオスシリーズの第I段階。日中の十分な日射時に最大1500Wを発電する。日の出と日没時に出力が低下し、屋根がかかると発電量はゼロになる。</HeliosSolarGeneratorL1.description>
+
+  <HeliosSolarGeneratorL2.label>ヘリオス太陽光発電機 II</HeliosSolarGeneratorL2.label>
+  <HeliosSolarGeneratorL2.description>コンパクトな2x2の太陽光発電機。ヘリオスシリーズの第II段階。日中の十分な日射時に最大3000Wを発電する。日の出と日没時に出力が低下し、屋根がかかると発電量はゼロになる。</HeliosSolarGeneratorL2.description>
+
+  <HeliosSolarGeneratorL3.label>ヘリオス太陽光発電機 III</HeliosSolarGeneratorL3.label>
+  <HeliosSolarGeneratorL3.description>コンパクトな2x2の太陽光発電機。ヘリオスシリーズの第III段階。日中の十分な日射時に最大6000Wを発電する。日の出と日没時に出力が低下し、屋根がかかると発電量はゼロになる。</HeliosSolarGeneratorL3.description>
+
+  <HeliosSolarGeneratorL4.label>ヘリオス太陽光発電機 IV</HeliosSolarGeneratorL4.label>
+  <HeliosSolarGeneratorL4.description>コンパクトな2x2の太陽光発電機。ヘリオスシリーズの第IV段階。日中の十分な日射時に最大9000Wを発電する。日の出と日没時に出力が低下し、屋根がかかると発電量はゼロになる。</HeliosSolarGeneratorL4.description>
+
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HeliosSolarGeneratorL1.label>赫利俄斯太阳能发电机 I</HeliosSolarGeneratorL1.label>
+  <HeliosSolarGeneratorL1.description>紧凑型 2x2 太阳能发电机。赫利俄斯系列第 I 级。在白天阳光充足时最多可产生 1500 瓦电力。日出和日落时输出会降低，被屋顶覆盖时输出为零。</HeliosSolarGeneratorL1.description>
+
+  <HeliosSolarGeneratorL2.label>赫利俄斯太阳能发电机 II</HeliosSolarGeneratorL2.label>
+  <HeliosSolarGeneratorL2.description>紧凑型 2x2 太阳能发电机。赫利俄斯系列第 II 级。在白天阳光充足时最多可产生 3000 瓦电力。日出和日落时输出会降低，被屋顶覆盖时输出为零。</HeliosSolarGeneratorL2.description>
+
+  <HeliosSolarGeneratorL3.label>赫利俄斯太阳能发电机 III</HeliosSolarGeneratorL3.label>
+  <HeliosSolarGeneratorL3.description>紧凑型 2x2 太阳能发电机。赫利俄斯系列第 III 级。在白天阳光充足时最多可产生 6000 瓦电力。日出和日落时输出会降低，被屋顶覆盖时输出为零。</HeliosSolarGeneratorL3.description>
+
+  <HeliosSolarGeneratorL4.label>赫利俄斯太阳能发电机 IV</HeliosSolarGeneratorL4.label>
+  <HeliosSolarGeneratorL4.description>紧凑型 2x2 太阳能发电机。赫利俄斯系列第 IV 级。在白天阳光充足时最多可产生 9000 瓦电力。日出和日落时输出会降低，被屋顶覆盖时输出为零。</HeliosSolarGeneratorL4.description>
+
+</LanguageData>

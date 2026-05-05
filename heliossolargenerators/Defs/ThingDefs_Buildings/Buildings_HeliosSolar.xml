@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <ThingDef ParentName="BuildingBase">
+    <defName>HeliosSolarGeneratorL1</defName>
+    <label>Helios solar generator I</label>
+    <description>A compact 2x2 solar generator. Tier I of the Helios line. Produces up to 1500 W during full daylight. Output drops at dawn and dusk and falls to zero when roofed over.</description>
+    <thingClass>Building</thingClass>
+    <category>Building</category>
+    <graphicData>
+      <texPath>Things/Building/Power/HeliosSolarL1</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+    <uiIconPath>Things/Building/Power/HeliosSolarL1_MenuIcon</uiIconPath>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <blockWind>true</blockWind>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>0.35</fillPercent>
+    <statBases>
+      <MaxHitPoints>180</MaxHitPoints>
+      <WorkToBuild>2500</WorkToBuild>
+      <Flammability>0.4</Flammability>
+      <Beauty>2</Beauty>
+    </statBases>
+    <size>(2,2)</size>
+    <costList>
+      <Steel>100</Steel>
+      <ComponentIndustrial>6</ComponentIndustrial>
+    </costList>
+    <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerPlantSolar</compClass>
+        <basePowerConsumption>-1500</basePowerConsumption>
+        <transmitsPower>true</transmitsPower>
+      </li>
+      <li Class="CompProperties_Flickable"/>
+    </comps>
+    <tickerType>Normal</tickerType>
+    <rotatable>false</rotatable>
+    <designationCategory>Power</designationCategory>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <constructEffect>ConstructMetal</constructEffect>
+    <repairEffect>ConstructMetal</repairEffect>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <researchPrerequisites>
+      <li>HeliosSolarL1</li>
+    </researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_NotUnderRoof</li>
+      <li>PlaceWorker_ShowFacing</li>
+    </placeWorkers>
+  </ThingDef>
+
+  <ThingDef ParentName="BuildingBase">
+    <defName>HeliosSolarGeneratorL2</defName>
+    <label>Helios solar generator II</label>
+    <description>A compact 2x2 solar generator. Tier II of the Helios line. Produces up to 3000 W during full daylight. Output drops at dawn and dusk and falls to zero when roofed over.</description>
+    <thingClass>Building</thingClass>
+    <category>Building</category>
+    <graphicData>
+      <texPath>Things/Building/Power/HeliosSolarL2</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+    <uiIconPath>Things/Building/Power/HeliosSolarL2_MenuIcon</uiIconPath>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <blockWind>true</blockWind>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>0.35</fillPercent>
+    <statBases>
+      <MaxHitPoints>180</MaxHitPoints>
+      <WorkToBuild>5000</WorkToBuild>
+      <Flammability>0.4</Flammability>
+      <Beauty>2</Beauty>
+    </statBases>
+    <size>(2,2)</size>
+    <costList>
+      <Steel>100</Steel>
+      <ComponentIndustrial>12</ComponentIndustrial>
+    </costList>
+    <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerPlantSolar</compClass>
+        <basePowerConsumption>-3000</basePowerConsumption>
+        <transmitsPower>true</transmitsPower>
+      </li>
+      <li Class="CompProperties_Flickable"/>
+    </comps>
+    <tickerType>Normal</tickerType>
+    <rotatable>false</rotatable>
+    <designationCategory>Power</designationCategory>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <constructEffect>ConstructMetal</constructEffect>
+    <repairEffect>ConstructMetal</repairEffect>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <researchPrerequisites>
+      <li>HeliosSolarL2</li>
+    </researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_NotUnderRoof</li>
+      <li>PlaceWorker_ShowFacing</li>
+    </placeWorkers>
+  </ThingDef>
+
+  <ThingDef ParentName="BuildingBase">
+    <defName>HeliosSolarGeneratorL3</defName>
+    <label>Helios solar generator III</label>
+    <description>A compact 2x2 solar generator. Tier III of the Helios line. Produces up to 6000 W during full daylight. Output drops at dawn and dusk and falls to zero when roofed over.</description>
+    <thingClass>Building</thingClass>
+    <category>Building</category>
+    <graphicData>
+      <texPath>Things/Building/Power/HeliosSolarL3</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+    <uiIconPath>Things/Building/Power/HeliosSolarL3_MenuIcon</uiIconPath>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <blockWind>true</blockWind>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>0.35</fillPercent>
+    <statBases>
+      <MaxHitPoints>180</MaxHitPoints>
+      <WorkToBuild>7500</WorkToBuild>
+      <Flammability>0.4</Flammability>
+      <Beauty>2</Beauty>
+    </statBases>
+    <size>(2,2)</size>
+    <costList>
+      <Steel>100</Steel>
+      <ComponentIndustrial>24</ComponentIndustrial>
+    </costList>
+    <constructionSkillPrerequisite>10</constructionSkillPrerequisite>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerPlantSolar</compClass>
+        <basePowerConsumption>-6000</basePowerConsumption>
+        <transmitsPower>true</transmitsPower>
+      </li>
+      <li Class="CompProperties_Flickable"/>
+    </comps>
+    <tickerType>Normal</tickerType>
+    <rotatable>false</rotatable>
+    <designationCategory>Power</designationCategory>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <constructEffect>ConstructMetal</constructEffect>
+    <repairEffect>ConstructMetal</repairEffect>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <researchPrerequisites>
+      <li>HeliosSolarL3</li>
+    </researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_NotUnderRoof</li>
+      <li>PlaceWorker_ShowFacing</li>
+    </placeWorkers>
+  </ThingDef>
+
+  <ThingDef ParentName="BuildingBase">
+    <defName>HeliosSolarGeneratorL4</defName>
+    <label>Helios solar generator IV</label>
+    <description>A compact 2x2 solar generator. Tier IV of the Helios line. Produces up to 9000 W during full daylight. Output drops at dawn and dusk and falls to zero when roofed over.</description>
+    <thingClass>Building</thingClass>
+    <category>Building</category>
+    <graphicData>
+      <texPath>Things/Building/Power/HeliosSolarL4</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+    <uiIconPath>Things/Building/Power/HeliosSolarL4_MenuIcon</uiIconPath>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <blockWind>true</blockWind>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>0.35</fillPercent>
+    <statBases>
+      <MaxHitPoints>180</MaxHitPoints>
+      <WorkToBuild>10000</WorkToBuild>
+      <Flammability>0.4</Flammability>
+      <Beauty>2</Beauty>
+    </statBases>
+    <size>(2,2)</size>
+    <costList>
+      <Steel>100</Steel>
+      <ComponentIndustrial>36</ComponentIndustrial>
+    </costList>
+    <constructionSkillPrerequisite>12</constructionSkillPrerequisite>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerPlantSolar</compClass>
+        <basePowerConsumption>-9000</basePowerConsumption>
+        <transmitsPower>true</transmitsPower>
+      </li>
+      <li Class="CompProperties_Flickable"/>
+    </comps>
+    <tickerType>Normal</tickerType>
+    <rotatable>false</rotatable>
+    <designationCategory>Power</designationCategory>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <constructEffect>ConstructMetal</constructEffect>
+    <repairEffect>ConstructMetal</repairEffect>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <researchPrerequisites>
+      <li>HeliosSolarL4</li>
+    </researchPrerequisites>
+    <placeWorkers>
+      <li>PlaceWorker_NotUnderRoof</li>
+      <li>PlaceWorker_ShowFacing</li>
+    </placeWorkers>
+  </ThingDef>
+
+</Defs>

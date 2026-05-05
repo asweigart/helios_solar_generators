@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <ResearchProjectDef>
+    <defName>HeliosSolarL1</defName>
+    <label>Helios solar I</label>
+    <description>Compact 2x2 solar generator producing up to 1500 W in full daylight.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SolarPanels</li>
+    </prerequisites>
+    <researchViewX>1.00</researchViewX>
+    <researchViewY>1.00</researchViewY>
+    <tab>Helios</tab>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>HeliosSolarL2</defName>
+    <label>Helios solar II</label>
+    <description>Improved Helios generator producing up to 3000 W in full daylight.</description>
+    <baseCost>1600</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>HeliosSolarL1</li>
+    </prerequisites>
+    <researchViewX>2.00</researchViewX>
+    <researchViewY>1.00</researchViewY>
+    <tab>Helios</tab>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>HeliosSolarL3</defName>
+    <label>Helios solar III</label>
+    <description>Advanced Helios generator producing up to 6000 W in full daylight. Requires hi-tech research bench.</description>
+    <baseCost>3200</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>HeliosSolarL2</li>
+      <li>Microelectronics</li>
+    </prerequisites>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <researchViewX>3.00</researchViewX>
+    <researchViewY>1.00</researchViewY>
+    <tab>Helios</tab>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>HeliosSolarL4</defName>
+    <label>Helios solar IV</label>
+    <description>Pinnacle Helios generator producing up to 9000 W in full daylight. Requires hi-tech research bench and a multi-analyzer.</description>
+    <baseCost>6400</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>HeliosSolarL3</li>
+      <li>MultiAnalyzer</li>
+    </prerequisites>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+    <researchViewX>4.00</researchViewX>
+    <researchViewY>1.00</researchViewY>
+    <tab>Helios</tab>
+  </ResearchProjectDef>
+
+</Defs>

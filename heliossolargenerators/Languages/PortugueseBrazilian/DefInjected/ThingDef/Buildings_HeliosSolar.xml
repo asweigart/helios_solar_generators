@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HeliosSolarGeneratorL1.label>gerador solar Helios I</HeliosSolarGeneratorL1.label>
+  <HeliosSolarGeneratorL1.description>Gerador solar compacto de 2x2. Nível I da linha Helios. Produz até 1500 W em plena luz do dia. A produção diminui ao amanhecer e ao anoitecer e cai a zero quando há um telhado por cima.</HeliosSolarGeneratorL1.description>
+
+  <HeliosSolarGeneratorL2.label>gerador solar Helios II</HeliosSolarGeneratorL2.label>
+  <HeliosSolarGeneratorL2.description>Gerador solar compacto de 2x2. Nível II da linha Helios. Produz até 3000 W em plena luz do dia. A produção diminui ao amanhecer e ao anoitecer e cai a zero quando há um telhado por cima.</HeliosSolarGeneratorL2.description>
+
+  <HeliosSolarGeneratorL3.label>gerador solar Helios III</HeliosSolarGeneratorL3.label>
+  <HeliosSolarGeneratorL3.description>Gerador solar compacto de 2x2. Nível III da linha Helios. Produz até 6000 W em plena luz do dia. A produção diminui ao amanhecer e ao anoitecer e cai a zero quando há um telhado por cima.</HeliosSolarGeneratorL3.description>
+
+  <HeliosSolarGeneratorL4.label>gerador solar Helios IV</HeliosSolarGeneratorL4.label>
+  <HeliosSolarGeneratorL4.description>Gerador solar compacto de 2x2. Nível IV da linha Helios. Produz até 9000 W em plena luz do dia. A produção diminui ao amanhecer e ao anoitecer e cai a zero quando há um telhado por cima.</HeliosSolarGeneratorL4.description>
+
+</LanguageData>

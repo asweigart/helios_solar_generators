@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HeliosSolarL1.label>«Гелиос» солнечный I</HeliosSolarL1.label>
+  <HeliosSolarL1.description>Компактный солнечный генератор 2x2, производящий до 1500 Вт при полном дневном свете.</HeliosSolarL1.description>
+
+  <HeliosSolarL2.label>«Гелиос» солнечный II</HeliosSolarL2.label>
+  <HeliosSolarL2.description>Улучшенный генератор «Гелиос», производящий до 3000 Вт при полном дневном свете.</HeliosSolarL2.description>
+
+  <HeliosSolarL3.label>«Гелиос» солнечный III</HeliosSolarL3.label>
+  <HeliosSolarL3.description>Продвинутый генератор «Гелиос», производящий до 6000 Вт при полном дневном свете. Требуется продвинутый исследовательский стол.</HeliosSolarL3.description>
+
+  <HeliosSolarL4.label>«Гелиос» солнечный IV</HeliosSolarL4.label>
+  <HeliosSolarL4.description>Вершина серии «Гелиос», производящий до 9000 Вт при полном дневном свете. Требуется продвинутый исследовательский стол и мультианализатор.</HeliosSolarL4.description>
+
+</LanguageData>

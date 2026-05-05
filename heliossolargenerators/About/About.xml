@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Helios Solar Generators</name>
+  <author>CoffeeGhost</author>
+  <packageId>coffeeghost.heliossolargenerators</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>Helios Solar Generators adds four tiers of compact 2x2 solar generators, each unlocked by its own research project that builds on the previous tier.
+
+Tier 1: 1500 W peak (100 steel, 6 components)
+Tier 2: 3000 W peak (100 steel, 12 components)
+Tier 3: 6000 W peak (100 steel, 24 components)
+Tier 4: 9000 W peak (100 steel, 36 components)
+
+All generators behave like the vanilla solar generator: output scales with daylight and is blocked when roofed over. Tier 1 requires the vanilla Solar panels research; higher tiers chain off each other and bring in Microelectronics and Multi-analyzer prerequisites.
+
+[h1]Русский[/h1]
+Helios Solar Generators добавляет четыре уровня компактных солнечных генераторов 2x2. Каждый уровень открывается собственным исследованием, продолжающим предыдущее.
+
+Уровень 1: пик 1500 Вт (100 стали, 6 компонентов)
+Уровень 2: пик 3000 Вт (100 стали, 12 компонентов)
+Уровень 3: пик 6000 Вт (100 стали, 24 компонента)
+Уровень 4: пик 9000 Вт (100 стали, 36 компонентов)
+
+Все генераторы работают как обычный солнечный генератор: выработка зависит от дневного света и падает до нуля под крышей. Уровень 1 требует ванильного исследования «Солнечные панели»; следующие уровни связаны друг с другом и используют «Микроэлектронику» и «Мультианализатор» как предварительные условия.
+
+[h1]简体中文[/h1]
+Helios Solar Generators 新增四个等级的紧凑型 2x2 太阳能发电机，每个等级都通过其专属的研究项目解锁，并以前一等级为基础。
+
+等级 1：峰值 1500 瓦（100 钢材，6 个组件）
+等级 2：峰值 3000 瓦（100 钢材，12 个组件）
+等级 3：峰值 6000 瓦（100 钢材，24 个组件）
+等级 4：峰值 9000 瓦（100 钢材，36 个组件）
+
+所有发电机的行为都与原版太阳能发电机一致：输出随日光变化，被屋顶覆盖时停止工作。等级 1 需要原版「太阳能板」研究；更高等级互相依赖，并需要「微电子学」和「多重分析仪」作为前置条件。
+
+[h1]Español[/h1]
+Helios Solar Generators añade cuatro niveles de generadores solares compactos de 2x2, cada uno desbloqueado por su propio proyecto de investigación que se basa en el nivel anterior.
+
+Nivel 1: pico de 1500 W (100 acero, 6 componentes)
+Nivel 2: pico de 3000 W (100 acero, 12 componentes)
+Nivel 3: pico de 6000 W (100 acero, 24 componentes)
+Nivel 4: pico de 9000 W (100 acero, 36 componentes)
+
+Todos los generadores se comportan como el generador solar vanilla: la producción varía con la luz del día y se bloquea cuando hay techo encima. El nivel 1 requiere la investigación vanilla «Paneles solares»; los niveles superiores se encadenan entre sí e incorporan «Microelectrónica» y «Multianalizador» como prerrequisitos.
+
+[h1]Português[/h1]
+Helios Solar Generators adiciona quatro níveis de geradores solares compactos de 2x2, cada um desbloqueado por seu próprio projeto de pesquisa que se baseia no nível anterior.
+
+Nível 1: pico de 1500 W (100 aço, 6 componentes)
+Nível 2: pico de 3000 W (100 aço, 12 componentes)
+Nível 3: pico de 6000 W (100 aço, 24 componentes)
+Nível 4: pico de 9000 W (100 aço, 36 componentes)
+
+Todos os geradores se comportam como o gerador solar vanilla: a produção varia com a luz do dia e é bloqueada quando há telhado acima. O nível 1 requer a pesquisa vanilla «Painéis solares»; os níveis superiores se encadeiam entre si e incorporam «Microeletrônica» e «Multianalisador» como pré-requisitos.
+
+[h1]日本語[/h1]
+Helios Solar Generators は、コンパクトな2x2太陽光発電機を4段階で追加します。各段階は前の段階を基にした独自の研究プロジェクトで解禁されます。
+
+段階 1：ピーク 1500W（鉄材100、コンポーネント6）
+段階 2：ピーク 3000W（鉄材100、コンポーネント12）
+段階 3：ピーク 6000W（鉄材100、コンポーネント24）
+段階 4：ピーク 9000W（鉄材100、コンポーネント36）
+
+すべての発電機はバニラの太陽光発電機と同じ挙動を示します。出力は日光に応じて変化し、屋根がかかると停止します。段階1にはバニラの「ソーラーパネル」研究が必要です。上位段階は互いに連鎖し、「マイクロエレクトロニクス」と「マルチアナライザー」が前提条件として必要です。
+
+[h1]Français[/h1]
+Helios Solar Generators ajoute quatre niveaux de générateurs solaires compacts 2x2, chacun débloqué par son propre projet de recherche qui s'appuie sur le niveau précédent.
+
+Niveau 1 : pic de 1500 W (100 acier, 6 composants)
+Niveau 2 : pic de 3000 W (100 acier, 12 composants)
+Niveau 3 : pic de 6000 W (100 acier, 24 composants)
+Niveau 4 : pic de 9000 W (100 acier, 36 composants)
+
+Tous les générateurs se comportent comme le générateur solaire vanilla : la production varie selon la lumière du jour et est bloquée lorsqu'un toit est présent. Le niveau 1 nécessite la recherche vanilla « Panneaux solaires » ; les niveaux supérieurs s'enchaînent et requièrent « Microélectronique » et « Multi-analyseur » comme prérequis.
+
+[h1]Deutsch[/h1]
+Helios Solar Generators fügt vier Stufen kompakter 2x2-Solargeneratoren hinzu, die jeweils durch ein eigenes Forschungsprojekt freigeschaltet werden, das auf der vorherigen Stufe aufbaut.
+
+Stufe 1: Spitzenleistung 1500 W (100 Stahl, 6 Komponenten)
+Stufe 2: Spitzenleistung 3000 W (100 Stahl, 12 Komponenten)
+Stufe 3: Spitzenleistung 6000 W (100 Stahl, 24 Komponenten)
+Stufe 4: Spitzenleistung 9000 W (100 Stahl, 36 Komponenten)
+
+Alle Generatoren verhalten sich wie der Vanilla-Solargenerator: Die Leistung skaliert mit dem Tageslicht und wird blockiert, wenn ein Dach darüber ist. Stufe 1 erfordert die Vanilla-Forschung „Solarmodule"; höhere Stufen bauen aufeinander auf und bringen „Mikroelektronik" und „Multianalysator" als Voraussetzungen mit.</description>
+</ModMetaData>

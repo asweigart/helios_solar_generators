@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HeliosSolarGeneratorL1.label>générateur solaire Helios I</HeliosSolarGeneratorL1.label>
+  <HeliosSolarGeneratorL1.description>Générateur solaire compact 2x2. Niveau I de la gamme Helios. Produit jusqu'à 1500 W en plein jour. La production diminue à l'aube et au crépuscule, et tombe à zéro lorsqu'il est couvert d'un toit.</HeliosSolarGeneratorL1.description>
+
+  <HeliosSolarGeneratorL2.label>générateur solaire Helios II</HeliosSolarGeneratorL2.label>
+  <HeliosSolarGeneratorL2.description>Générateur solaire compact 2x2. Niveau II de la gamme Helios. Produit jusqu'à 3000 W en plein jour. La production diminue à l'aube et au crépuscule, et tombe à zéro lorsqu'il est couvert d'un toit.</HeliosSolarGeneratorL2.description>
+
+  <HeliosSolarGeneratorL3.label>générateur solaire Helios III</HeliosSolarGeneratorL3.label>
+  <HeliosSolarGeneratorL3.description>Générateur solaire compact 2x2. Niveau III de la gamme Helios. Produit jusqu'à 6000 W en plein jour. La production diminue à l'aube et au crépuscule, et tombe à zéro lorsqu'il est couvert d'un toit.</HeliosSolarGeneratorL3.description>
+
+  <HeliosSolarGeneratorL4.label>générateur solaire Helios IV</HeliosSolarGeneratorL4.label>
+  <HeliosSolarGeneratorL4.description>Générateur solaire compact 2x2. Niveau IV de la gamme Helios. Produit jusqu'à 9000 W en plein jour. La production diminue à l'aube et au crépuscule, et tombe à zéro lorsqu'il est couvert d'un toit.</HeliosSolarGeneratorL4.description>
+
+</LanguageData>

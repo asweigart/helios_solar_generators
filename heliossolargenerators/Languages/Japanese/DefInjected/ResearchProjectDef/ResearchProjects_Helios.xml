@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HeliosSolarL1.label>ヘリオス太陽光 I</HeliosSolarL1.label>
+  <HeliosSolarL1.description>コンパクトな2x2太陽光発電機。日中の十分な日射時に最大1500Wを発電する。</HeliosSolarL1.description>
+
+  <HeliosSolarL2.label>ヘリオス太陽光 II</HeliosSolarL2.label>
+  <HeliosSolarL2.description>改良型ヘリオス発電機。日中の十分な日射時に最大3000Wを発電する。</HeliosSolarL2.description>
+
+  <HeliosSolarL3.label>ヘリオス太陽光 III</HeliosSolarL3.label>
+  <HeliosSolarL3.description>先進型ヘリオス発電機。日中の十分な日射時に最大6000Wを発電する。ハイテク研究台が必要。</HeliosSolarL3.description>
+
+  <HeliosSolarL4.label>ヘリオス太陽光 IV</HeliosSolarL4.label>
+  <HeliosSolarL4.description>ヘリオスシリーズの最高峰。日中の十分な日射時に最大9000Wを発電する。ハイテク研究台とマルチアナライザーが必要。</HeliosSolarL4.description>
+
+</LanguageData>

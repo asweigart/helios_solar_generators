@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HeliosSolarGeneratorL1.label>Helios-Solargenerator I</HeliosSolarGeneratorL1.label>
+  <HeliosSolarGeneratorL1.description>Kompakter 2x2-Solargenerator. Stufe I der Helios-Reihe. Erzeugt bei vollem Tageslicht bis zu 1500 W. Die Leistung sinkt bei Morgen- und Abenddämmerung und fällt auf null, wenn er überdacht ist.</HeliosSolarGeneratorL1.description>
+
+  <HeliosSolarGeneratorL2.label>Helios-Solargenerator II</HeliosSolarGeneratorL2.label>
+  <HeliosSolarGeneratorL2.description>Kompakter 2x2-Solargenerator. Stufe II der Helios-Reihe. Erzeugt bei vollem Tageslicht bis zu 3000 W. Die Leistung sinkt bei Morgen- und Abenddämmerung und fällt auf null, wenn er überdacht ist.</HeliosSolarGeneratorL2.description>
+
+  <HeliosSolarGeneratorL3.label>Helios-Solargenerator III</HeliosSolarGeneratorL3.label>
+  <HeliosSolarGeneratorL3.description>Kompakter 2x2-Solargenerator. Stufe III der Helios-Reihe. Erzeugt bei vollem Tageslicht bis zu 6000 W. Die Leistung sinkt bei Morgen- und Abenddämmerung und fällt auf null, wenn er überdacht ist.</HeliosSolarGeneratorL3.description>
+
+  <HeliosSolarGeneratorL4.label>Helios-Solargenerator IV</HeliosSolarGeneratorL4.label>
+  <HeliosSolarGeneratorL4.description>Kompakter 2x2-Solargenerator. Stufe IV der Helios-Reihe. Erzeugt bei vollem Tageslicht bis zu 9000 W. Die Leistung sinkt bei Morgen- und Abenddämmerung und fällt auf null, wenn er überdacht ist.</HeliosSolarGeneratorL4.description>
+
+</LanguageData>

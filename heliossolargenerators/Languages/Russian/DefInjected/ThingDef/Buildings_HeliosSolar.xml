@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HeliosSolarGeneratorL1.label>солнечный генератор «Гелиос» I</HeliosSolarGeneratorL1.label>
+  <HeliosSolarGeneratorL1.description>Компактный солнечный генератор размером 2x2. Уровень I серии «Гелиос». Производит до 1500 Вт при полном дневном свете. Выработка снижается на рассвете и закате и падает до нуля под крышей.</HeliosSolarGeneratorL1.description>
+
+  <HeliosSolarGeneratorL2.label>солнечный генератор «Гелиос» II</HeliosSolarGeneratorL2.label>
+  <HeliosSolarGeneratorL2.description>Компактный солнечный генератор размером 2x2. Уровень II серии «Гелиос». Производит до 3000 Вт при полном дневном свете. Выработка снижается на рассвете и закате и падает до нуля под крышей.</HeliosSolarGeneratorL2.description>
+
+  <HeliosSolarGeneratorL3.label>солнечный генератор «Гелиос» III</HeliosSolarGeneratorL3.label>
+  <HeliosSolarGeneratorL3.description>Компактный солнечный генератор размером 2x2. Уровень III серии «Гелиос». Производит до 6000 Вт при полном дневном свете. Выработка снижается на рассвете и закате и падает до нуля под крышей.</HeliosSolarGeneratorL3.description>
+
+  <HeliosSolarGeneratorL4.label>солнечный генератор «Гелиос» IV</HeliosSolarGeneratorL4.label>
+  <HeliosSolarGeneratorL4.description>Компактный солнечный генератор размером 2x2. Уровень IV серии «Гелиос». Производит до 9000 Вт при полном дневном свете. Выработка снижается на рассвете и закате и падает до нуля под крышей.</HeliosSolarGeneratorL4.description>
+
+</LanguageData>
